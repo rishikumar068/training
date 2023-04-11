@@ -6,3 +6,5 @@ HEAD
 This is for Testing from mainbranch for testing conflict.
 I am from feature1 branch and checking conflict situation.
 feature1
+Adding from GIthub console. 
+
