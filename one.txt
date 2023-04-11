@@ -2,4 +2,7 @@ This si for testinhg purpose.
 Ist a second line from same file.
 Testing 3rd
 its update from one file on 11th April.
+HEAD
 This is for Testing from mainbranch for testing conflict.
+I am from feature1 branch and checking conflict situation.
+feature1
